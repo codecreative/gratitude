@@ -1,10 +1,10 @@
 ---
-path: "/happy-halloween"
-date: "2017-10-31T03:15:59.165Z"
-title: "Happy halloween"
-tags: ['holiday', 'fall', 'pumpkin']
-excerpt: "Great pumpkin, or Greatest Pumpkin?"
+path: "/test-1"
+date: "2018-01-21T14:48:35Z"
+title: "This is a test page"
+tags: ['test', 'testing']
+excerpt: "Testy McTest"
 ---
 
 # ARRRRRRRROOOOOOOO
-It was a clear black night, a clear white moon...
+This is a test page.
